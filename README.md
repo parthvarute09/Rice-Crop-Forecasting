@@ -29,7 +29,7 @@ The system aims to support farmers, researchers, and agricultural planners by pr
 - **Data Manipulation:** Pandas, NumPy
 - **Data Visualization:** Matplotlib, Seaborn
 - **Machine Learning:** Scikit-learn
-- **Development Environment:** Jupyter Notebook / Google Colab / VS Code
+- **Development Environment:**  VS Code
 - **Version Control:** Git and GitHub
 
 *Update this list according to the libraries and tools actually used in your project.*
