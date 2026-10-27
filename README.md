@@ -32,7 +32,6 @@ The system aims to support farmers, researchers, and agricultural planners by pr
 - **Development Environment:**  VS Code
 - **Version Control:** Git and GitHub
 
-*Update this list according to the libraries and tools actually used in your project.*
 
 ## 📊 Dataset
 
@@ -51,8 +50,6 @@ Potential input features may include:
 The exact features depend on the dataset used in the implementation.
 
 **Target variable:** Rice crop yield, measured in the unit provided by the dataset, such as tonnes per hectare.
-
-> Note: Add the dataset source, license, geographical coverage, and actual column names here before publishing the final version.
 
 ## ⚙️ Project Workflow
 
@@ -85,7 +82,6 @@ The model can be evaluated using:
 - **RMSE (Root Mean Squared Error):** Measures prediction error in the target variable's units.
 - **R² Score:** Measures how well the model explains variation in the target variable.
 
-Add your actual evaluation results after training and testing the model.
 
 ## 🚀 Getting Started
 
@@ -185,10 +181,6 @@ This is a suggested structure; retain only the files and folders that actually e
 - Build a web-based prediction interface using Streamlit.
 - Display historical yield trends and forecast visualizations.
 - Expand forecasting to additional regions and cultivation seasons.
-
-## ⚠️ Disclaimer
-
-This project is intended for educational and research purposes. Predictions depend on the quality, coverage, and reliability of the dataset and model. Forecasts should not be treated as guaranteed agricultural outcomes.
 
 ## 👨‍💻 Author
 
